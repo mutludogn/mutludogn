@@ -9,5 +9,6 @@ Hello, I am Mutlu Doğan. I was born in Ankara in 1997. I am studying Computer P
 🌱 I’m currently learning React.js
 
 ![](https://camo.githubusercontent.com/83332cff730c24fb7829ea5ff814d2629572848a0881cf9a60222ef296263782/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73)
-![](<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
-)
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React JS - Türkçe Dokümantasyon" height="100">
+</p>
