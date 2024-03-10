@@ -13,3 +13,5 @@ Hello, I am Mutlu Doğan. I was born in Ankara in 1997. I am studying Computer P
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React JS - Türkçe Dokümantasyon" height="50">
 <img src ="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" height="50">
 <img src="https://sass-lang.com/assets/img/logos/logo.svg" height="50">
+<img  src="https://skillicons.dev/icons?i=css" height="50">
+<img  src="https://skillicons.dev/icons?i=html" height="50">
